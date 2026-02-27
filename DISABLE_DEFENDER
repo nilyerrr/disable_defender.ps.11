@@ -1,0 +1,4 @@
+# Script para desactivar el monitoreo en tiempo real
+Set-MpPreference -DisableRealtimeMonitoring $true
+# Opcional: Desactivar el Firewall para la práctica
+# Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
