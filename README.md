@@ -1,0 +1,1 @@
+# disable_defender.ps.11
